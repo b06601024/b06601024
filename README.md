@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @b06601024
 - 👀 I’m interested in courses for data analyst.
 - 🌱 I’m currently learning Python, R, Excel, Tableau, etc.
-- 💞️ I’m looking to collaborate on someone else.
+- 💞️ I’m looking to collaborate with someone else.
 - 📫 How to reach me ? 
 Email: hockhynnwoo@gmail.com
 
